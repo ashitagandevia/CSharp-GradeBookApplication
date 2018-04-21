@@ -54,7 +54,6 @@ namespace GradeBook.GradeBooks
                 return 'D';
             else
                 return 'E';
-            return base.GetLetterGrade(averageGrade);
         }
 
    
