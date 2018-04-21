@@ -53,7 +53,7 @@ namespace GradeBook.GradeBooks
             else if (grade[(thresold * 4) - 1] <= averageGrade)
                 return 'D';
             else
-                return 'E';
+                return 'F';
         }
 
    
